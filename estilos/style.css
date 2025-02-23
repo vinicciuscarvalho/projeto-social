@@ -26,6 +26,18 @@ main {
 }
 
 
+iframe#tela {
+    width: 260px;
+    height: 460px;
+    position: absolute;
+    top: 50.4%;
+    left: 50%;
+    transform: translate(-51.6%, -50%);
+
+
+
+}
+
 section#telefone {
     position: absolute;
     top: 50%;
